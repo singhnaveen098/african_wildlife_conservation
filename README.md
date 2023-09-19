@@ -1,2 +1,2 @@
-# african_wildlife_conservation
- Object detection using tensorflow
+# african_wildlife
+object detection
